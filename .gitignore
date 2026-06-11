@@ -19,3 +19,7 @@ storage/key_value_stores/default/*
 .venv
 .env
 .aider*
+.codex/
+.hermes/
+.env.production
+.env.local
