@@ -24,3 +24,4 @@ storage/key_value_stores/default/*
 .env.production
 .env.local
 .DS_Store
+AGENTS.md
